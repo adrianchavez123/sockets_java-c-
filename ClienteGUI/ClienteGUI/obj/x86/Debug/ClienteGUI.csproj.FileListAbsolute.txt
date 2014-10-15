@@ -1,0 +1,14 @@
+C:\Users\adrian\AppData\Local\Temporary Projects\ClienteGUI\bin\Debug\ClienteGUI.exe
+C:\Users\adrian\AppData\Local\Temporary Projects\ClienteGUI\bin\Debug\ClienteGUI.pdb
+C:\Users\adrian\AppData\Local\Temporary Projects\ClienteGUI\obj\x86\Debug\ClienteGUI.Form1.resources
+C:\Users\adrian\AppData\Local\Temporary Projects\ClienteGUI\obj\x86\Debug\ClienteGUI.Properties.Resources.resources
+C:\Users\adrian\AppData\Local\Temporary Projects\ClienteGUI\obj\x86\Debug\ClienteGUI.csproj.GenerateResource.Cache
+C:\Users\adrian\AppData\Local\Temporary Projects\ClienteGUI\obj\x86\Debug\ClienteGUI.exe
+C:\Users\adrian\AppData\Local\Temporary Projects\ClienteGUI\obj\x86\Debug\ClienteGUI.pdb
+C:\Users\adrian\documents\visual studio 2010\Projects\ClienteGUI\ClienteGUI\obj\x86\Debug\ClienteGUI.exe
+C:\Users\adrian\documents\visual studio 2010\Projects\ClienteGUI\ClienteGUI\obj\x86\Debug\ClienteGUI.pdb
+C:\Users\adrian\documents\visual studio 2010\Projects\ClienteGUI\ClienteGUI\bin\Debug\ClienteGUI.exe
+C:\Users\adrian\documents\visual studio 2010\Projects\ClienteGUI\ClienteGUI\bin\Debug\ClienteGUI.pdb
+C:\Users\adrian\documents\visual studio 2010\Projects\ClienteGUI\ClienteGUI\obj\x86\Debug\ClienteGUI.Form1.resources
+C:\Users\adrian\documents\visual studio 2010\Projects\ClienteGUI\ClienteGUI\obj\x86\Debug\ClienteGUI.Properties.Resources.resources
+C:\Users\adrian\documents\visual studio 2010\Projects\ClienteGUI\ClienteGUI\obj\x86\Debug\ClienteGUI.csproj.GenerateResource.Cache
